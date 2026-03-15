@@ -1,0 +1,9 @@
+{
+	"name": "ahmedoumezzine",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03d4efd9-4276-48c4-8cbc-397396ad0f11",
+		"tenantId": "b9fec68c-c92d-461e-9a97-3d03a0f18b82"
+	}
+}
